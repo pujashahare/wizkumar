@@ -12,6 +12,8 @@
     <hr/>
     <ul>
         <li><a href="pages.php">Pages</a></li>
+        <li><a href="pages2.php">New Pagess</a></li>
+
     </ul>
 </body>
 </html>
